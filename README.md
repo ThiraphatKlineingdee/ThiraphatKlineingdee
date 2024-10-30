@@ -11,4 +11,13 @@ I'm student at Phayao Universitey, majoring in Computer-Science.
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 </p>
 
-https://tenor.com/view/luna-cat-plinker-plink-gif-1317261633404946088
+
+
+
+
+
+![luna-cat](https://github.com/user-attachments/assets/ed8d24d0-71bd-4f1a-861b-c9eab8a3b49c)
+
+
+
+
